@@ -1,11 +1,17 @@
 {% if site.data.projects %}
 <section class="section projects-section">
 
-  <h2 class="section-title"><i class="fa fa-archive"></i>Projects</h2>
+  <h2 class="section-title"><i class="fa fa-archive"></i>Publications</h2>
 
   {% for intro in site.data.projects %}
   <div class="intro">
-      <p>{{ intro.description }}</p>
+      
+  <ul>
+    <li> <b>Schalken, N.</b> & Rietbergen, C. (2017). The reporting quality of systematic reviews and meta-analyses in industrial and organizational psychology: A systematic review. <i>Frontiers in Psychology.<i> doi: 10.3389/fpsyg.2017.01395</li>
+  <li> other reference </li>
+  <li> other reference </li>
+  </ul>
+      
   </div><!--//intro-->
   {% endfor%}
 
