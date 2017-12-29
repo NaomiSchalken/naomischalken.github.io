@@ -3,22 +3,10 @@
   sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
 
 - project:
-  title: Velocity
-  link: "#hook"
-  tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  tagline: "Schalken, N. & Rietbergen, C. (2017). The reporting quality of systematic reviews and meta-analyses in industrial and organizational psychology: A systematic review. Frontiers in Psychology. doi: 10.3389/fpsyg.2017.01395"
+  
 - project:
   title: DevStudio
   link: "#"
   tagline: "A responsive website template designed to help web developers/designers market their services."
-- project:
-  title: Tempo
-  link: "#"
-  tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-- project:
-  title: Atom
-  link: "#"
-  tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-- project:
-  title: Delta
-  link: "#"
-  tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
