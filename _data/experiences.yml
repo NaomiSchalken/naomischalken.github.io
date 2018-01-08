@@ -2,4 +2,6 @@
   role: Student-assistant
   time: 2017 - present
   company: Utrecht University, Utrecht
-  details: "<ul><li> Organizing committee of the Symposium on The application of scientific methods and research results in the social and medical sciences <a href="https://nosmosymposium2017.sites.uu.nl/"> Website </a><li/> <li>"
+  details: - one
+           - two
+           - three
