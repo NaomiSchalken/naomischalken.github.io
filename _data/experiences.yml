@@ -2,6 +2,7 @@
   role: Student-assistant
   time: 2017 - present
   company: Utrecht University, Utrecht
-  details: - one
-           - two
-           - three
+  details: "<ul>
+              <li>Point 1</li>
+              <li>Point 2</li>
+            </ul>"
