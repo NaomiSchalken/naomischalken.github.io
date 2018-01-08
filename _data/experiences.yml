@@ -10,7 +10,7 @@
               <li>  Tutoring daily lab sessions at the Summer School course ‘My First Bayes, A Gentle introduction to Bayesian Analysis’ at the Erasmus University Rotterdam for post-graduates.</li>
               <li>  Developing and evaluating course materials in Mplus and the R package 'blavaan'</li>
             </ul>" 
-  website: "<a href="https://nosmosymposium2017.sites.uu.nl/">Nosmo</a>"
+  website: <a href="https://nosmosymposium2017.sites.uu.nl/">Nosmo</a>
 - experience: 
   role: Presentation
   time: June 26, 2017 
